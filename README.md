@@ -1,2 +1,2 @@
 # MinskRegion
-MinskRegion - temp website for english lesson.
+MinskRegion - temp (temp? or not temp?) website for english lesson.
